@@ -1,0 +1,15 @@
+.container{
+    display: grid;
+}
+
+.btnAddRow {
+    width: 100px;
+    margin: 10px auto;
+    background-color: #15E68B ;
+
+}
+
+.result{
+    margin:10px 0;
+    font-weight: bold;
+}

@@ -1,0 +1,17 @@
+.cardOperator {
+    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #E68045;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 6px;
+}
+
+#selectSign {
+    width: 50px;
+}
+
+.disabledInput {
+    background: #80808075;
+}
