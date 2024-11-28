@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className="cardContainer">
-        <h2>CALCOLATRICE</h2>
+        <h2>CALCULATOR</h2>
         <Calculator/>
       </div>
     </div>

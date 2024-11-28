@@ -66,7 +66,7 @@ export default function Calculator() {
                     enableDisableItem={enableDisableItem}
                 />
             })}
-            <b className="result">RISULTATO: {result}</b>
+            <b className="result">RESULT: {result}</b>
         </div>
     )
 }
